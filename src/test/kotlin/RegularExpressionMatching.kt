@@ -5,7 +5,7 @@ import kotlin.test.assertEquals
 
 // 10. Regular Expression Matching
 class RegularExpressionMatching {
-    val sol = Solution()
+    val sol = SolutionRegularExpressionMatching()
 
     @Test
     fun baseCases() {

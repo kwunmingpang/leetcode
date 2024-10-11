@@ -1,6 +1,6 @@
 
 // 10. Regular Expression Matching
-class Solution {
+class SolutionRegularExpressionMatching {
     fun isMatch(s: String, p: String): Boolean {
 //        val strs = ArrayList(s.toCharArray().toList())
 //        val chars = ArrayList(p.toCharArray().toList())
@@ -66,7 +66,7 @@ class Solution {
 
 fun main(args: Array<String>) {
 //    println("a" == "a")
-    val sol = Solution()
+    val sol = SolutionRegularExpressionMatching()
 //    val value = sol.isMatch("ab", "a.")
 //    println(value)
 //    assert(value)
